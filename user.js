@@ -1,4 +1,4 @@
-const users = [
+let users = [
     {
         id: 01,
         username: "bukanebiy",
@@ -15,4 +15,3 @@ const users = [
         password: "passwordkuat",
     },
 ]
-
