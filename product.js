@@ -1,4 +1,4 @@
-let products = [
+const products = [
     {
         id: 01,
         name: "indomie",
