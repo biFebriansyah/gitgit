@@ -1,4 +1,4 @@
-let products = [
+var products = [
     {
         id: 01,
         name: "indomie",
