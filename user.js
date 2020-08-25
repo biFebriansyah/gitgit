@@ -1,4 +1,4 @@
-var users = [
+let users = [
     {
         id: 01,
         username: "bukanebiy",
@@ -15,4 +15,3 @@ var users = [
         password: "passwordkuat",
     },
 ]
-
